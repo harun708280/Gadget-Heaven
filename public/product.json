@@ -1,0 +1,304 @@
+[
+    
+    
+    {
+      "id": 3,
+      "title": "Wireless Earbuds A20",
+      "product_image": "https://img.drz.lazcdn.com/static/bd/p/e6b7d2372025bf9ba09356218f465b0b.jpg_960x960q80.jpg_.webp",
+      "category": "Audio",
+      "price": 149,
+      "description": "True wireless earbuds with noise cancellation and superior sound quality.",
+      "Specification": [
+        "Bluetooth 5.2",
+        "Active noise cancellation",
+        "24-hour battery life with case",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color_options": ["Black", "White"]
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch Series 6",
+      "product_image": "https://5.imimg.com/data5/SELLER/Default/2020/9/LA/LE/ST/13502286/1-500x500.jpg",
+      "category": "Wearables",
+      "price": 299.99,
+      "description": "Smartwatch with fitness tracking, heart rate monitoring, and sleep analysis.",
+      "Specification": [
+        "1.8-inch AMOLED display",
+        "Heart rate and SpO2 sensor",
+        "GPS tracking",
+        "Waterproof up to 50 meters"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "battery_life": "18 hours"
+    },
+    {
+      "id": 5,
+      "title": "Gaming Laptop GX700",
+      "product_image": "https://www.intogadgets.nl/wp-content/uploads/2016/03/asus-gx700-gaming-laptop-feature.png",
+      "category": "Laptops",
+      "price": 1399,
+      "description": "High-performance gaming laptop with powerful graphics and fast refresh rate.",
+      "Specification": [
+        "17.3-inch FHD display, 144Hz",
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA RTX 3060"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "keyboard": "RGB backlit"
+    },
+    {
+      "id": 6,
+      "title": "4K Ultra HD Smart TV",
+      "product_image": "https://soundmachine.com.mt/wp-content/uploads/2023/05/Samsung-UE55CU7170-55-Crystal-4K-Ultra-HD-Smart-TV-3.jpg",
+      "price": 899,
+      "description": "Ultra HD smart TV with vivid colors and seamless streaming capabilities.",
+      "Specification": [
+        "55-inch 4K UHD display",
+        "HDR support",
+        "Built-in streaming apps",
+        "Voice control"
+      ],
+      "availability": true,
+      "rating": 4.3,
+      "audio_system": "Dolby Atmos"
+    },
+    {
+      "id": 7,
+      "title": "Portable Bluetooth Speaker",
+      "product_image": "https://www.gamingislife.sg/cdn/shop/files/Go4Red.jpg?v=1719228376&width=1214",
+      "category": "Audio",
+      "price": 59,
+      "description": "Compact, waterproof Bluetooth speaker with deep bass and clear sound.",
+      "Specification": [
+        "IP67 waterproof",
+        "12-hour battery life",
+        "360° sound",
+        "Bluetooth 5.0"
+      ],
+      "availability": true,
+      "rating": 4.1,
+      "color_options": ["Red", "Black", "Blue"]
+    },
+    {
+      "id": 8,
+      "title": "Ultrabook Z500",
+      "product_image": "https://cdn1.focus.bg/bazar/80/pics/807cd90d23d4472eba22998dbbb65688.jpg",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Sleek ultrabook with powerful processing and long battery life.",
+      "Specification": [
+        "13.3-inch Retina display",
+        "256GB SSD",
+        "8GB RAM",
+        "Intel i7 processor"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "weight": "1.2 kg"
+    },
+    {
+      "id": 9,
+      "title": "Smart Home Assistant",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bUMkTgq4I0FLndENr08hbSUOYtPapeP0aA&s",
+      "category": "Home Entertainment",
+      "price": 89,
+      "description": "Voice-controlled smart home assistant with speaker and smart home integration.",
+      "Specification": [
+        "Voice assistant",
+        "Smart home compatibility",
+        "Bluetooth and Wi-Fi",
+        "Touch-sensitive controls"
+      ],
+      "availability": false,
+      "rating": 4.2,
+      "color": "Gray"
+    },
+    {
+      "id": 10,
+      "title": "Noise-Cancelling Headphones",
+      "product_image": "https://i.pcmag.com/imagery/articles/06X5FmHnKHTTmFzyn5jMunR-7..v1651759223.jpg",
+      "category": "Home Entertainment",
+      "price": 299,
+      "description": "Over-ear headphones with advanced noise-canceling technology and premium sound.",
+      "Specification": [
+        "Bluetooth 5.1",
+        "Active noise cancellation",
+        "30-hour battery life",
+        "Comfortable ear cushions"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "color_options": ["Black", "Silver"]
+    },
+    {
+      "id": 11,
+      "title": "Smartphone G6 Lite",
+      "product_image": "https://www.notebookcheck.net/fileadmin/_processed_/2/8/csm_intro_35b50302a4.jpg",
+      "category": "Smartphones",
+      "price": 399,
+      "description": "Affordable smartphone with a vibrant display and powerful battery.",
+      "Specification": [
+        "6.3-inch HD+ display",
+        "64GB storage",
+        "4000mAh battery",
+        "Dual camera setup"
+      ],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "id": 12,
+      "title": "Gaming Console Z-Box",
+      "product_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/DSC00856.jpg",
+      "category": "Home Entertainment",
+      "price": 499,
+      "description": "Next-gen gaming console with ultra-fast loading and immersive graphics.",
+      "Specification": [
+        "8-core processor",
+        "Ray tracing support",
+        "120 FPS",
+        "1TB SSD storage"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color": "Black"
+    },
+    {
+      "id": 13,
+      "title": "Fitness Smart Band",
+      "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/11/fitness-tracker-2048px-5344.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      "category": "Wearables",
+      "price": 55,
+      "description": "Lightweight fitness band with step counting and heart rate monitoring.",
+      "Specification": [
+        "Heart rate monitor",
+        "Step counter",
+        "Sleep tracking",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    
+    {
+      "id": 15,
+      "title": "Smartphone Max Pro",
+      "product_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/02/full/1696225756-5527.jpg",
+      "category": "Smartphones",
+      "price": 999,
+      "description": "Flagship smartphone with advanced camera system and large storage.",
+      "Specification": [
+        "6.7-inch QHD+ display",
+        "256GB storage",
+        "5000mAh battery",
+        "Quad camera setup"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "color_options": ["Black", "Gold"]
+    },
+    {
+      "id": 16,
+      "title": "Smartwatch Fit",
+      "product_image": "https://imageio.forbes.com/specials-images/imageserve/664ac72bd52a74eeec5c9274/Huawei-Watch-Fit-3/1960x0.jpg?format=jpg&width=960",
+      "category": "Wearables",
+      "price": 199,
+      "description": "Stylish smartwatch with fitness tracking and notifications.",
+      "Specification": [
+        "1.4-inch display",
+        "Fitness tracking",
+        "Call and message notifications",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "id": 17,
+      "title": "VR Headset Pro",
+      "product_image": "https://twinreality.in/wp-content/uploads/2024/08/apple-vision-pro-features.jpg",
+      "category": "Home Entertainment",
+      "price": 349,
+      "description": "Immersive virtual reality headset with a wide field of view and high resolution.",
+      "Specification": [
+        "Dual OLED displays",
+        "120Hz refresh rate",
+        "Wide field of view",
+        "Built-in audio"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "compatibility": "PC and Console"
+    },
+    {
+      "id": 18,
+      "title": "Smart Projector Mini",
+      "product_image": "https://gadgetviper.com/blog/wp-content/uploads/2016/05/coochee-mini-led-projector-review.jpg",
+      "category": "Home Entertainment",
+      "price": 299,
+      "description": "Compact smart projector for home entertainment with Wi-Fi connectivity.",
+      "Specification": [
+        "1080p resolution",
+        "Wi-Fi and Bluetooth",
+        "Compact design",
+        "Built-in speaker"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "id": 19,
+      "title": "Smart Doorbell Camera",
+      "product_image": "https://nexxt-connectivity-frontend.s3.amazonaws.com/media/img/nhc-d100_bn_ca_02_eng.jpg",
+      "category": "Home Entertainment",
+      "price": 199,
+      "description": "Smart doorbell camera with HD video and two-way audio.",
+      "Specification": [
+        "HD video resolution",
+        "Night vision",
+        "Two-way audio",
+        "Motion detection alerts"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "title": "Wireless Charging Pad",
+      "product_image": "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/iS0AAOSwo~lgHk~e/$_12.JPG?set_id=880000500F",
+      "category": "Accessories",
+      "price": 65,
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "Specification": [
+        "10W fast charging",
+        "Compact design",
+        "Overheat protection",
+        "LED charging indicator"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "title": "Bluetooth Tracking Tag",
+      "product_image": "https://cdn.thewirecutter.com/wp-content/media/2021/11/bluetoothtracker-2048px-3280.jpg?auto=webp&quality=75&width=1024",
+      "category": "Accessories",
+      "price": 60,
+      "description": "Bluetooth tracking tag to help you locate your belongings.",
+      "Specification": [
+        "Range up to 200 feet",
+        "Replaceable battery",
+        "Compatible with smartphone app",
+        "Keychain attachment"
+      ],
+      "availability": true,
+      "rating": 4.0
+    }
+  ]
+  

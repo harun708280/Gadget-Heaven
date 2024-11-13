@@ -1,0 +1,57 @@
+[
+  {
+      "id": 1,
+      "store_name": "Samsung",
+      "location": "Seoul, South Korea",
+      "image": "https://www.megabites.com.ph/wp-content/uploads/2018/07/Samsung.jpg"
+  },
+  {
+      "id": 2,
+      "store_name": "Apple",
+      "location": "Cupertino, California, USA",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/0*eCevtSq-UNZ8lNHX"
+  },
+  {
+      "id": 3,
+      "store_name": "Sony",
+      "location": "Tokyo, Japan",
+      "image": "https://www.sony.com/en/brand/images/main-pic-BrandBanner.png"
+  },
+  {
+      "id": 4,
+      "store_name": "LG",
+      "location": "Seoul, South Korea",
+      "image": "https://etimg.etb2bimg.com/photo/112823655.cms"
+  },
+  {
+      "id": 5,
+      "store_name": "Panasonic",
+      "location": "Osaka, Japan",
+      "image": "https://zodiaclightwaves.com/wp-content/uploads/2021/03/Panasonic.jpg"
+  },
+  {
+      "id": 6,
+      "store_name": "Philips",
+      "location": "Amsterdam, Netherlands",
+      "image": "https://image.cnbcfm.com/api/v1/image/107185637-1675060756198-gettyimages-1234848959-zawrzel-philipso210729_np2E8.jpeg?v=1706519136"
+  },
+  {
+      "id": 7,
+      "store_name": "Huawei",
+      "location": "Shenzhen, China",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2019/04/huawei-logo.jpg"
+  },
+  {
+      "id": 8,
+      "store_name": "OnePlus",
+      "location": "Shenzhen, China",
+      "image": "https://www.oneplus.com/content/dam/oasis/page/brand/brand-page/explore/pc/community/C5.jpg"
+  },
+  {
+      "id": 9,
+      "store_name": "Dell",
+      "location": "Round Rock, Texas, USA",
+      "image": "https://i.ytimg.com/vi/eMJ9mDSSOh0/hqdefault.jpg"
+  }
+  
+]
